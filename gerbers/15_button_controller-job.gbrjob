@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.7)"
     },
-    "CreationDate": "2022-10-15T23:14:27+02:00"
+    "CreationDate": "2022-10-18T19:39:03+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -32,37 +32,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "15_button_controller-F_Cu.gbr",
+      "Path": "15_button_controller-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "15_button_controller-B_Cu.gbr",
+      "Path": "15_button_controller-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "15_button_controller-F_Silkscreen.gbr",
+      "Path": "15_button_controller-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "15_button_controller-B_Silkscreen.gbr",
+      "Path": "15_button_controller-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "15_button_controller-F_Mask.gbr",
+      "Path": "15_button_controller-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "15_button_controller-B_Mask.gbr",
+      "Path": "15_button_controller-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "15_button_controller-Edge_Cuts.gbr",
+      "Path": "15_button_controller-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
